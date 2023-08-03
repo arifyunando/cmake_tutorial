@@ -22,6 +22,7 @@ This tutorial is done with [**CMake**](https://cmake.org/) `Version 3.27.1`
 * [Step 10](./tutorial/Step10/): Selecting Static or Shared Libraries
 * [Step 11](./tutorial/Step11/): Adding Export Configuration
 * [Step 12](./tutorial/Step12/): Packaging Debug and Release
+* [Study Note](./studylog.md)
 
 ## Author
 **Arif Y. Sunanhadikusuma (Soen)** <br>
