@@ -5,6 +5,7 @@
 
 // TODO 5: Include MathFunctions.h
 #include "TutorialConfig.h"
+#include "MathFunctions.h"
 
 int main(int argc, char* argv[])
 {
