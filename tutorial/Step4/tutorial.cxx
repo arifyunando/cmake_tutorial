@@ -3,9 +3,8 @@
 #include <iostream>
 #include <string>
 
-// TODO 5: Include MathFunctions.h
-#include "TutorialConfig.h"
 #include "MathFunctions.h"
+#include "TutorialConfig.h"
 
 int main(int argc, char* argv[])
 {
@@ -20,10 +19,8 @@ int main(int argc, char* argv[])
   // convert input to double
   const double inputValue = std::stod(argv[1]);
 
-  // TODO 6: Replace sqrt with mathfunctions::sqrt
-
-  // calculate square root
   const double outputValue = mathfunctions::sqrt(inputValue);
+
   std::cout << "The square root of " << inputValue << " is " << outputValue
             << std::endl;
   return 0;
